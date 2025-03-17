@@ -1,0 +1,7 @@
+*.csv
+*.txt
+!local-area-boundary.csv
+parking_tickets_with_neighborhoods.csv
+.venv/
+*.Zone.Identifier
+*.Identifier
